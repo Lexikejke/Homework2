@@ -108,7 +108,7 @@ namespace Homework2
             Console.ReadKey();
             #endregion
 
-            Console.WriteLine("wwewe");
+            Console.WriteLine("wwewкукуe");
         }
     }
 
