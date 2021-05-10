@@ -106,8 +106,9 @@ namespace Homework2
             }
             Console.WriteLine("Количество цифр в числе = " + count);
             Console.ReadKey();
-             #endregion
+            #endregion
 
+            Console.WriteLine("wwewe");
         }
     }
 
